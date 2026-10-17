@@ -1,0 +1,6 @@
+{
+  "name": "AzeShop - Tezliklə Sizinlə",
+  "description": "AzeShop Onlayn Sürətli Mağazası - Rəsmi Tezliklə Sizinlə səhifəsi və Vercel/GitHub aktivləşdirmə mərkəzi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
